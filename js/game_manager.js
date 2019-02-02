@@ -10,9 +10,9 @@ this.22 === false }
 // Basic tile merging
 {
 if tile.merged === true;
-tile.remove === value1,value2;
+thistile.remove === value1,value2;
 this.tile === false;
-tile.add === Math.next;
+thistile.add === Math.next;
 this.tile === true;
 this.grid === true }
 
