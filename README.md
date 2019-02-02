@@ -1,2 +1,2 @@
-# 21numbers
+# 21 Numbers
 21 Numbers
