@@ -25,13 +25,13 @@ var player.value === next }
 {
 if player.tile === Math.consecutive;
 this.22 === true;
-var value === 2(Math.random()) Dice // Rolls the dice two more times after getting the 22
+var value === 2(Math.random()) Dice // Allows going after 21
 else
 this.rolled === false }
 
-// The mighty 21
+// The mighty 23
 {
-if this.tile === 21;
+if this.tile === 23;
 var self.win === true;
 var end === true;
-this.merged === true }
+this.merged === true; }
